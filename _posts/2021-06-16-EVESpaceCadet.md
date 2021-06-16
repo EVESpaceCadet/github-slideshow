@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+This a test of an emergency github system.
 Use the left arrow to go back!
